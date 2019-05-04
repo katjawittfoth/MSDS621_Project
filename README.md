@@ -1,5 +1,5 @@
-# MSDS621 Project
-USF MSDS Machine Learning Intro Course Group Project 🦄
+# Classification model to predict genre from lyrics data
+USF MSDS Machine Learning Group Project 🦄
 
 Data: [380,000+ lyrics from MetroLyrics](https://www.kaggle.com/gyani95/380000-lyrics-from-metrolyrics)
 
