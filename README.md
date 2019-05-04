@@ -7,12 +7,13 @@ This project aims to predict genre based on lyrics. We compared various supervis
 
 [Final Presentation Notebook](https://github.com/r-reilly/MSDS621_Project/blob/master/Presentation/ML%20Presentation.ipynb)
 
-Contributors: 
+Contributors (from left to right): 
+* [Fiorella Tenorio](https://github.com/fioreten)
 * [Victoria Suarez](https://github.com/vasuarez)
 * [Viviana Márquez](https://github.com/vivianamarquez)
-* [Rebecca Reilly](https://github.com/r-reilly)
 * [Katja Wittfoth](https://github.com/katjawittfoth)
-* [Fiorella Tenorio](https://github.com/fioreten)
+* [Rebecca Reilly](https://github.com/r-reilly)
+
 
 <br>
 <br>
